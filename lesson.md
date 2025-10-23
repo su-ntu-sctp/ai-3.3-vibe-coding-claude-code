@@ -1,4 +1,17 @@
-# Vibe Coding with Claude Code
+
+
+# Lesson: Using Claude Code to Boost Developer Productivity
+
+## Lesson Overview
+This lesson introduces **Claude Code**, an AI-powered development tool that enables “vibe coding” — building software through natural conversation instead of manual coding. Learners will explore how Claude Code accelerates development, compare it with no-code and low-code approaches, create PRDs for AI-assisted builds, connect real data using MCP, and practice building a Spring Boot + React CRM project interactively.
+
+## Lesson Objectives
+- Understand the concept of vibe coding and its advantages over no-code and low-code platforms.  
+- Use Claude Code to generate, refactor, and debug code conversationally.  
+- Write and apply Product Requirements Documents (PRDs) to guide AI-driven development.  
+- Set up Claude Code in CLI and VS Code, and use different chat modes effectively.  
+- Integrate MCP for database and API access during development.  
+- Apply best practices to boost productivity while maintaining code quality and control.
 
 ## Part 1: Introduction
 
